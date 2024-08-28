@@ -1,0 +1,89 @@
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 0, "fps": 9.381614352784867, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 1, "fps": 9.346860580725108, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 2, "fps": 9.37917017890401, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 3, "fps": 9.772761539578031, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 4, "fps": 10.044912129592293, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 5, "fps": 10.494995404695509, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 6, "fps": 10.801953744712568, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 7, "fps": 11.154401692321574, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 8, "fps": 11.294341605443337, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 9, "fps": 11.416123698616675, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 10, "fps": 11.538611529044976, "detections": []}
+{"timestamp": "2024-08-02 12:46:29", "frame_index": 11, "fps": 11.622153422303583, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 12, "fps": 11.768915195382185, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 13, "fps": 11.8467840645596, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 14, "fps": 11.96120867710779, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 15, "fps": 12.002798824752375, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 16, "fps": 12.039527792777383, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 17, "fps": 12.067599231628913, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 18, "fps": 12.289284971518866, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 19, "fps": 12.423172826170202, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 20, "fps": 12.477471140082494, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 21, "fps": 12.492858203881335, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 22, "fps": 12.500091229606374, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 23, "fps": 12.682400858810857, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 24, "fps": 12.759437743976441, "detections": []}
+{"timestamp": "2024-08-02 12:46:30", "frame_index": 25, "fps": 12.719428880990943, "detections": []}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 26, "fps": 12.721962888353648, "detections": []}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 27, "fps": 12.661647911529712, "detections": [{"bounding_box": [167.0, 0.0, 724.0, 714.0], "confidence": 0.5171351432800293, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 28, "fps": 12.536963535841615, "detections": [{"bounding_box": [154.0, 6.0, 790.0, 714.0], "confidence": 0.640124499797821, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 29, "fps": 12.458016529753968, "detections": [{"bounding_box": [170.0, 0.0, 865.0, 719.0], "confidence": 0.7785685062408447, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 30, "fps": 12.525979632373021, "detections": [{"bounding_box": [164.0, 0.0, 867.0, 719.0], "confidence": 0.6084337830543518, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 31, "fps": 12.515231803544989, "detections": [{"bounding_box": [161.0, 0.0, 868.0, 719.0], "confidence": 0.5228995680809021, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 32, "fps": 12.549871968013361, "detections": []}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 33, "fps": 12.528552982651584, "detections": [{"bounding_box": [163.0, 0.0, 704.0, 719.0], "confidence": 0.7141719460487366, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 34, "fps": 12.506627786519967, "detections": [{"bounding_box": [163.0, 0.0, 711.0, 719.0], "confidence": 0.5355011224746704, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 35, "fps": 12.66498841398028, "detections": [{"bounding_box": [162.0, 0.0, 710.0, 719.0], "confidence": 0.5333523750305176, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 36, "fps": 12.710789363056811, "detections": [{"bounding_box": [149.0, 0.0, 715.0, 719.0], "confidence": 0.5100934505462646, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:31", "frame_index": 37, "fps": 12.675583675759377, "detections": [{"bounding_box": [138.0, 0.0, 766.0, 719.0], "confidence": 0.5531947612762451, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 38, "fps": 12.595299014171607, "detections": [{"bounding_box": [147.0, 0.0, 771.0, 719.0], "confidence": 0.572689950466156, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 39, "fps": 12.566556042020393, "detections": [{"bounding_box": [129.0, 0.0, 768.0, 719.0], "confidence": 0.5501057505607605, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 40, "fps": 12.541534243774267, "detections": [{"bounding_box": [132.0, 0.0, 794.0, 719.0], "confidence": 0.6300183534622192, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 41, "fps": 12.622294818439704, "detections": [{"bounding_box": [127.0, 0.0, 795.0, 719.0], "confidence": 0.6415408253669739, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 42, "fps": 12.626099635982397, "detections": [{"bounding_box": [150.0, 0.0, 867.0, 719.0], "confidence": 0.6293452978134155, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 43, "fps": 12.595405245012959, "detections": [{"bounding_box": [129.0, 0.0, 817.0, 719.0], "confidence": 0.676818311214447, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 44, "fps": 12.574375008364113, "detections": [{"bounding_box": [135.0, 0.0, 795.0, 719.0], "confidence": 0.570627748966217, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 45, "fps": 12.697682134080408, "detections": [{"bounding_box": [117.0, 0.0, 797.0, 719.0], "confidence": 0.5872330665588379, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 46, "fps": 12.704019102666246, "detections": [{"bounding_box": [119.0, 0.0, 812.0, 719.0], "confidence": 0.5923720002174377, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 47, "fps": 12.680932283805292, "detections": [{"bounding_box": [114.0, 1.0, 803.0, 719.0], "confidence": 0.6506509184837341, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 48, "fps": 12.826533756697303, "detections": [{"bounding_box": [106.0, 0.0, 824.0, 719.0], "confidence": 0.6987391710281372, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 49, "fps": 12.855320024399177, "detections": [{"bounding_box": [111.0, 1.0, 821.0, 719.0], "confidence": 0.6089450716972351, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:32", "frame_index": 50, "fps": 12.817244721939938, "detections": [{"bounding_box": [108.0, 1.0, 815.0, 719.0], "confidence": 0.6338068246841431, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 51, "fps": 12.939038679020626, "detections": [{"bounding_box": [100.0, 0.0, 817.0, 719.0], "confidence": 0.6288866996765137, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 52, "fps": 12.904386747405335, "detections": [{"bounding_box": [103.0, 0.0, 814.0, 719.0], "confidence": 0.6083774566650391, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 53, "fps": 12.883907344020601, "detections": [{"bounding_box": [107.0, 0.0, 820.0, 719.0], "confidence": 0.5949376225471497, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 54, "fps": 13.039391670545763, "detections": [{"bounding_box": [129.0, 0.0, 797.0, 719.0], "confidence": 0.5837675333023071, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 55, "fps": 13.067187800396605, "detections": [{"bounding_box": [116.0, 0.0, 796.0, 719.0], "confidence": 0.5546470284461975, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 56, "fps": 13.028985943237064, "detections": [{"bounding_box": [725.0, 226.0, 875.0, 580.0], "confidence": 0.522484302520752, "class_id": 0, "class_name": "person"}, {"bounding_box": [137.0, 0.0, 792.0, 719.0], "confidence": 0.5142123103141785, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 57, "fps": 13.035832232957967, "detections": [{"bounding_box": [151.0, 0.0, 729.0, 716.0], "confidence": 0.7741526365280151, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 58, "fps": 13.009309553927837, "detections": [{"bounding_box": [162.0, 0.0, 685.0, 719.0], "confidence": 0.6790347695350647, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 59, "fps": 12.946018451861415, "detections": [{"bounding_box": [128.0, 0.0, 793.0, 719.0], "confidence": 0.727590799331665, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 60, "fps": 12.926812326672287, "detections": [{"bounding_box": [731.0, 228.0, 862.0, 394.0], "confidence": 0.5108529925346375, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 61, "fps": 12.855650052069128, "detections": [{"bounding_box": [690.0, 228.0, 874.0, 587.0], "confidence": 0.707032322883606, "class_id": 0, "class_name": "person"}, {"bounding_box": [125.0, 0.0, 805.0, 719.0], "confidence": 0.5555062890052795, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:33", "frame_index": 62, "fps": 12.786613921063319, "detections": [{"bounding_box": [687.0, 230.0, 876.0, 583.0], "confidence": 0.7606920003890991, "class_id": 0, "class_name": "person"}, {"bounding_box": [166.0, 0.0, 862.0, 718.0], "confidence": 0.6883022785186768, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 63, "fps": 12.696549090231075, "detections": [{"bounding_box": [713.0, 221.0, 874.0, 592.0], "confidence": 0.8503269553184509, "class_id": 0, "class_name": "person"}, {"bounding_box": [151.0, 0.0, 771.0, 719.0], "confidence": 0.5920000672340393, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 64, "fps": 12.67269802000368, "detections": [{"bounding_box": [710.0, 226.0, 877.0, 583.0], "confidence": 0.8492093086242676, "class_id": 0, "class_name": "person"}, {"bounding_box": [151.0, 0.0, 763.0, 719.0], "confidence": 0.530277669429779, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 65, "fps": 12.8309671760376, "detections": [{"bounding_box": [712.0, 227.0, 878.0, 586.0], "confidence": 0.8291745781898499, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 66, "fps": 12.89867808902095, "detections": [{"bounding_box": [710.0, 226.0, 881.0, 584.0], "confidence": 0.7839060425758362, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 67, "fps": 12.932867120551743, "detections": [{"bounding_box": [710.0, 226.0, 882.0, 586.0], "confidence": 0.8281837105751038, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 68, "fps": 13.136209173557585, "detections": [{"bounding_box": [711.0, 228.0, 893.0, 592.0], "confidence": 0.8395229578018188, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 69, "fps": 13.16325857453066, "detections": [{"bounding_box": [708.0, 240.0, 890.0, 611.0], "confidence": 0.8492839932441711, "class_id": 0, "class_name": "person"}, {"bounding_box": [175.0, 0.0, 672.0, 719.0], "confidence": 0.5043138861656189, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 70, "fps": 13.17726190274726, "detections": [{"bounding_box": [710.0, 241.0, 892.0, 609.0], "confidence": 0.7967943549156189, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 71, "fps": 13.383157397871038, "detections": [{"bounding_box": [711.0, 243.0, 890.0, 607.0], "confidence": 0.8584729433059692, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 72, "fps": 13.472954511493034, "detections": [{"bounding_box": [711.0, 239.0, 888.0, 610.0], "confidence": 0.8375840187072754, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 73, "fps": 13.487497798407965, "detections": [{"bounding_box": [712.0, 242.0, 883.0, 608.0], "confidence": 0.85263592004776, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 74, "fps": 13.472345541100534, "detections": [{"bounding_box": [713.0, 237.0, 881.0, 614.0], "confidence": 0.8761133551597595, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 75, "fps": 13.426050864568387, "detections": [{"bounding_box": [718.0, 233.0, 877.0, 618.0], "confidence": 0.8362872004508972, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:34", "frame_index": 76, "fps": 13.349148833785478, "detections": [{"bounding_box": [718.0, 223.0, 868.0, 591.0], "confidence": 0.6767874956130981, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 77, "fps": 13.243846135619965, "detections": [{"bounding_box": [721.0, 235.0, 881.0, 622.0], "confidence": 0.6748906970024109, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 78, "fps": 13.019224143816682, "detections": [{"bounding_box": [726.0, 221.0, 860.0, 591.0], "confidence": 0.7293055653572083, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 79, "fps": 12.95909652351745, "detections": [{"bounding_box": [728.0, 224.0, 860.0, 588.0], "confidence": 0.6337961554527283, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 80, "fps": 12.930263711925464, "detections": []}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 81, "fps": 12.92041835674556, "detections": []}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 82, "fps": 12.87253100953826, "detections": [{"bounding_box": [733.0, 231.0, 935.0, 617.0], "confidence": 0.597554624080658, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 83, "fps": 12.839036513838332, "detections": [{"bounding_box": [735.0, 225.0, 934.0, 614.0], "confidence": 0.7186112403869629, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 84, "fps": 12.844455724945417, "detections": [{"bounding_box": [735.0, 227.0, 925.0, 604.0], "confidence": 0.6475877165794373, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 85, "fps": 12.822501258505069, "detections": [{"bounding_box": [737.0, 226.0, 932.0, 610.0], "confidence": 0.7156731486320496, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 86, "fps": 12.94550239661388, "detections": [{"bounding_box": [737.0, 220.0, 921.0, 609.0], "confidence": 0.6686521768569946, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 87, "fps": 12.890855705626302, "detections": [{"bounding_box": [176.0, 0.0, 858.0, 719.0], "confidence": 0.9143174290657043, "class_id": 0, "class_name": "person"}]}
+{"timestamp": "2024-08-02 12:46:35", "frame_index": 88, "fps": 12.823811653629855, "detections": [{"bounding_box": [188.0, 0.0, 849.0, 717.0], "confidence": 0.8002402186393738, "class_id": 0, "class_name": "person"}]}

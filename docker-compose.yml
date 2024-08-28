@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  tensorrt:
+    # image: nvcr.io/nvidia/l4t-tensorrt:r8.0.1-runtime
+    build: ./
+    runtime: nvidia
+    environment:
+      - NVIDIA_REQUIRE_JETPACK_HOST_MOUNTS= nvcr.io/nvidia/l4t-tensorrt:r8.2.1-runtime
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    tty: true
+    stdin_open: true
+    command: /bin/bash
