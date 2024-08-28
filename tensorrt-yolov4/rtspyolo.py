@@ -22,7 +22,7 @@ from utils.yolo_with_plugins import TrtYOLO
 from heading import calculate_heading
 import numpy as np
 
-from sort.sort import Sort 
+from sort import Sort 
 
 WINDOW_NAME = 'TrtYOLODemo'
 BASE_OUTPUT_DIR = 'detections/crop'  # Base directory for output
